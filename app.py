@@ -123,9 +123,9 @@ def main():
     - **Pillow** for image processing.
     - **Texify** for image and PDF Processing.
     """)
-
     st.markdown(
     """
+    st.divider()
     <div class="developer">
         Developed by <a href="https://github.com/codewithdark-git" target="_blank">Codewithdark</a> & 
         <a href="https://github.com/aisha-iftikhar" target="_blank">Aisha Iftikhar</a>
