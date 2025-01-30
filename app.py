@@ -104,7 +104,7 @@ def main():
     If you have any questions, queries, or suggestions for improvement, feel free to contact us directly via email.
 
     **For feedback or inquiries, email us at:** 
-    [codewithdark90@gmail.com](mailto:codewithdark90@gmail.com.com)
+    [onitechz@gmail.com](mailto:codewithdark90@gmail.com.com)
 
     """) # Add your Email Aisha if You want to 
 
@@ -127,8 +127,7 @@ def main():
     """
     st.divider()
     <div class="developer">
-        Developed by <a href="https://github.com/codewithdark-git" target="_blank">Codewithdark</a> & 
-        <a href="https://github.com/aisha-iftikhar" target="_blank">Aisha Iftikhar</a>
+        Developed by <a href="https://www.linkedin.com/in/charles-oni-b45a91253/" target="_blank">Oni CharleS </a> 
         <span class="emoji">🚀</span>
     </div>
     """, unsafe_allow_html=True
