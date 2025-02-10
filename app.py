@@ -50,7 +50,7 @@ def main():
     )
 
     # Add the title and subtitle
-    st.markdown('<div class="title">MathGPT</div>', unsafe_allow_html=True)
+    st.markdown('<div class="title">MathSolve.</div>', unsafe_allow_html=True)
     st.markdown('<div class="subtitle">Solve Your Advanced Math Problem</div>', unsafe_allow_html=True)
 
     st.divider()
@@ -69,7 +69,7 @@ def main():
 
     # Overview description
     st.write("""
-    **MathGPT** is a web application built with Streamlit that allows users to input mathematical problems and receive solutions. The app supports both text and LaTeX input, making it versatile for various mathematical expressions. Users can also visualize functions and access a history of their solved problems.
+    **MathSolve.** is a web application built with Streamlit that allows users to input mathematical problems and receive solutions. The app supports both text and LaTeX input, making it versatile for various mathematical expressions. Users can also visualize functions and access a history of their solved problems.
     """)
 
     # Features section
@@ -100,7 +100,7 @@ def main():
     # Feedback section
     st.subheader("Feedback")
     st.write("""
-    We value your input! Help us improve the functionality of MathGPT or suggest new features you'd like to see.
+    We value your input! Help us improve the functionality of MathSolve or suggest new features you'd like to see.
     If you have any questions, queries, or suggestions for improvement, feel free to contact us directly via email.
 
     **For feedback or inquiries, email us at:** 
